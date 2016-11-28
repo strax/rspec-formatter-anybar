@@ -5,7 +5,7 @@ require 'rspec/formatter/anybar/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rspec-formatter-anybar"
-  spec.version       = Rspec::Formatter::Anybar::VERSION
+  spec.version       = RSpec::Formatter::Anybar::VERSION
   spec.authors       = ["Sami Kukkonen"]
   spec.email         = ["sami@samikukkonen.fi"]
 
